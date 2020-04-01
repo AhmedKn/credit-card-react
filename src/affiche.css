@@ -1,0 +1,47 @@
+.credit-credit-content{
+    display:flex;
+    flex-direction: column;
+    width: 513px;
+}
+
+.setnumber-input{
+    margin-top: -180px;
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+    border: none;
+    color: white;
+    margin-left: 16px;
+    letter-spacing: 5px;
+}
+.setmmyy-input{
+    margin-top: 55px;
+    margin-left: 240px;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+    border: none;
+    color: white;
+}
+.setname-input{
+    margin-top: 5px;
+    margin-left: 11px;
+    height: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+    border: none;
+    color: white;
+}
+
+
+
